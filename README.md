@@ -76,6 +76,13 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 ## Results
 
+### Heroes of PyMoli - Analysis
+
+1. The majority of players are male, with 84%.
+2. Female players are more likely to buy expensive things and bring more value per purchase than male players.
+3. The most populous age group is 20-24 years old(44.8 %), followed by 15-19 years old(18.6%) and 25-29 years old(13.4 %).
+4. The average purchase is around USD 3 per individual.
+
 [Code for Heroes of PyMoli](HeroesofPymoli/HeroesOfPymoli_starter.ipynb)
 
 
