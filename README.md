@@ -12,10 +12,10 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 ### Tasks
 
-**Player Count:** 
+**Player Count** 
 * Total Number of Players
 
-**Purchasing Analysis (Total):**  
+**Purchasing Analysis (Total)**  
 * Number of Unique Items
 * Average Purchase Price
 * Total Number of Purchases
