@@ -33,6 +33,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 * Average Purchase Total per Person by Gender
 
 **Age Demographics**
+
 *The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)*
 * Purchase Count
 * Average Purchase Price
@@ -40,6 +41,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 * Average Purchase Total per Person by Age Group
 
 **Purchasing Analysis (age)**
+
 *The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)*
 * Purchase Count
 * Average Purchase Price
@@ -47,6 +49,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 * Average Purchase Total per Person by Age
 
 **Top Spenders**
+
 *Identify the the top 5 spenders in the game by total purchase value, then list (in a table):*
 * SN
 * Purchase Count
@@ -54,6 +57,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 * Total Purchase Value
 
 **Most Popular Items**
+
 *Identify the 5 most popular items by purchase count, then list (in a table):*
 * Item ID
 * Item Name
@@ -62,6 +66,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 * Total Purchase Value
 
 **Most Profitable Items**
+
 *Identify the 5 most profitable items by total purchase value, then list (in a table):*
 * Item ID
 * Item Name
