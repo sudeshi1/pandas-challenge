@@ -10,7 +10,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 ## Accomplishments
 
-**Tasks**
+### Tasks
 
 **Player Count:** 
 * Total Number of Players
